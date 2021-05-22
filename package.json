@@ -1,0 +1,23 @@
+{
+  "name": "core-js-oop-inheritance-tree-grooves",
+  "version": "1.0.0",
+  "description": "Ты смоделировал(а) апельсиновое дерево для нашего клиента, фермера Федора. Кажется это было [тут][задача об апельсиновом дереве]. *Если ты еще не сделал(а) это задание, **сделай его прежде**, чем приступать к моделированию рощи!*",
+  "main": "orange-tree.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seenyat/core-js-oop-inheritance-tree-grooves.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seenyat/core-js-oop-inheritance-tree-grooves/issues"
+  },
+  "homepage": "https://github.com/seenyat/core-js-oop-inheritance-tree-grooves#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0",
+    "jest": "^26.6.3"
+  }
+}
